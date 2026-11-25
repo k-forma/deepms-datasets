@@ -1,0 +1,7 @@
+Dataset creators: Jiahao Li; Lin Wang; Xiaoheng Zhang; Yi Han; Xiaobing Su.
+Accompanying paper: Extending DeepMS to Six Workingstep Classes with Final-Part
+Constraints for Removal Volume Refinement.
+Upstream: Maqueda, Rosen and Melkote (2025), DeepMS: A data-driven approach to
+machining process sequencing using transformers. Journal of Manufacturing Systems 82, 947-963.
+https://doi.org/10.1016/j.jmsy.2025.07.022
+https://github.com/jaimemaqueda/DeepMS-DataGen
