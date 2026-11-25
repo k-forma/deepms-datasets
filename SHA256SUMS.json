@@ -1,0 +1,57 @@
+[
+  {
+    "file": "three_class-data-001.zip",
+    "bytes": 1809401717,
+    "sha256": "c4382beee7a43cf318f8edade79326b89ddd478213bfdbfbb99a5c761eb3b8f7"
+  },
+  {
+    "file": "three_class-data-002.zip",
+    "bytes": 1809376761,
+    "sha256": "a245d5ce7f731af133dadab92b8b6e96f5385659397533158b6eabd2fae480c2"
+  },
+  {
+    "file": "three_class-data-003.zip",
+    "bytes": 1811231409,
+    "sha256": "37629e1dc61371d6e44e34f3c0781b6352895d2b94808a521119821cf758e20a"
+  },
+  {
+    "file": "three_class-data-004.zip",
+    "bytes": 1812413176,
+    "sha256": "cd56047f33c8e00406a7a850885ff9bb548ca793b36a1641fa3eed574c4b94c6"
+  },
+  {
+    "file": "three_class-data-005.zip",
+    "bytes": 419093215,
+    "sha256": "6b19db8a13a9413ad0e9268530161c67ab9ca6c908321d04b8674fa902da8af4"
+  },
+  {
+    "file": "six_class-data-001.zip",
+    "bytes": 1799943471,
+    "sha256": "cc1d15c77a769b99b87c9bca917078454f4df2abc7de61daf04abbd1fa56f877"
+  },
+  {
+    "file": "six_class-data-002.zip",
+    "bytes": 1799918885,
+    "sha256": "68616292534cc77f65de8e5de5ea888b0b620052534be8ac5c4634d2cd9c96d8"
+  },
+  {
+    "file": "six_class-data-003.zip",
+    "bytes": 1799942431,
+    "sha256": "d4bb4d67d52cf43b689a6ccec6fdb410958c810b9f7c3d457c7c076e9aeddd06"
+  },
+  {
+    "file": "six_class-data-004.zip",
+    "bytes": 1799951081,
+    "sha256": "fbed16a6d6e6508f238e93c84f43f12461aa975af971794c62ed5faffd9bbb74"
+  },
+  {
+    "file": "six_class-data-005.zip",
+    "bytes": 1649982642,
+    "sha256": "9c7716bb9dda9a03a9e306c023a2838b4b47c7d0ab9c7d9904cc0eb30e213a4e"
+  },
+  {
+    "file": "dataset-splits-and-documentation.zip",
+    "bytes": 9530349,
+    "sha256": "f35de2f3921071eeb23c8e537ef636ef36a6a66b4ee4974a277ff504b82148c7"
+  }
+]
