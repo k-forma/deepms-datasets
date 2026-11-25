@@ -1,0 +1,5 @@
+The author-generated synthetic datasets in this release are made available under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+License terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+Attribute the dataset creators and the accompanying extension paper; identify modifications.
+Upstream software is not included and retains its original license.
