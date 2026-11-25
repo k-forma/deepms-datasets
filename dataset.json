@@ -1,0 +1,26 @@
+{
+  "title": "DeepMS three-class and six-class synthetic machining datasets",
+  "samples_per_dataset": 1080000,
+  "base_parts_per_dataset": 180000,
+  "orientation_variants": 6,
+  "voxel_resolution": [
+    128,
+    128,
+    128
+  ],
+  "three_class_baseline_counts": {
+    "train": 972000,
+    "validation": 54000,
+    "test": 54000
+  },
+  "three_class_refinement_test_count": 30000,
+  "six_class_counts": {
+    "train": 972000,
+    "validation": 54000,
+    "test": 54000
+  },
+  "six_class_release_fingerprint": "06150ff8f0c6dff581d626837e3e7034352dba59421a3dca038ebdf662135836",
+  "paper": "Extending DeepMS to Six Workingstep Classes with Final-Part Constraints for Removal Volume Refinement",
+  "upstream": "https://github.com/jaimemaqueda/DeepMS-DataGen",
+  "upstream_paper_doi": "https://doi.org/10.1016/j.jmsy.2025.07.022"
+}
